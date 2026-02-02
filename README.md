@@ -21,18 +21,6 @@ This work proposes **TOT-AWPE**, a **third-order tensor decomposition based adap
 - Achieves **significant computational complexity reduction**
 - Maintains **comparable or superior dereverberation performance** compared to AWPE and KAWPE
 
-## 🧪 Experimental Results
-
-Experiments were conducted using:
-
-- 8-channel microphone arrays
-- Reverberation times \(T_{60} \in \{400, 500, 600, 700\}\) ms
-- Objective metrics:
-  - Cepstral Distance (CD)
-  - PESQ
-  - Frequency-weighted segmental SNR (FWSNR)
-  - Log-likelihood ratio (LLR)
-
 
 ## 📌 Citation
 
