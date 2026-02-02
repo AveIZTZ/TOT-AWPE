@@ -26,12 +26,11 @@ This work proposes **TOT-AWPE**, a **third-order tensor decomposition based adap
 If you find this work useful, please cite:
 
 ```bibtex
-@article{zhu2026totawpe,
+@article{zhu2025third,
   title={A third-order tensor decomposition based algorithm for speech dereverberation},
   author={Zhu, Yujie and Huang, Gongping and Jin, Jilu and Chen, Jingdong and Benesty, Jacob},
   journal={Signal Processing},
-  volume={239},
   pages={110210},
-  year={2026},
+  year={2025},
   publisher={Elsevier}
 }
