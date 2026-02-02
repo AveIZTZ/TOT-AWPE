@@ -1,10 +1,6 @@
-# 🧠 TOT-AWPE: Third-Order Tensor Decomposition Based Speech Dereverberberation
+# 🧠 TOT-AWPE: A third-order tensor decomposition based algorithm for speech dereverberation
 
-**A Third-Order Tensor Decomposition Based Algorithm for Speech Dereverberation**  
 📄 *Signal Processing*, Vol. 239, 2026
-
-**Yujie Zhu**, Gongping Huang\*, Jilu Jin, Jingdong Chen, Jacob Benesty  
-Wuhan University · Northwestern Polytechnical University · INRS-EMT
 
 ---
 
