@@ -1,5 +1,7 @@
 # TOT-AWPE: A third-order tensor decomposition based algorithm for speech dereverberation
 
+This repository is the official repository for “A third-order tensor decomposition based algorithm for speech dereverberation”. 
+
 ## 📖 Paper
 
 > **A third-order tensor decomposition based algorithm for speech dereverberation**  
@@ -10,9 +12,6 @@
 ---
 
 ## 🔍 Overview
-
-Speech dereverberation is a fundamental technique for improving speech quality and intelligibility in reverberant acoustic environments.  
-Among existing approaches, **adaptive weighted prediction error (AWPE)** methods based on multichannel linear prediction have shown strong performance, but they typically suffer from **high computational complexity** due to the long prediction filters involved.
 
 This work proposes **TOT-AWPE**, a **third-order tensor decomposition based adaptive WPE algorithm**, which:
 
