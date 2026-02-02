@@ -1,9 +1,5 @@
 # TOT-AWPE: A third-order tensor decomposition based algorithm for speech dereverberation
 
-📄 *Signal Processing*, Vol. 239, 2026
-
----
-
 ## 📖 Paper
 
 > **A third-order tensor decomposition based algorithm for speech dereverberation**  
